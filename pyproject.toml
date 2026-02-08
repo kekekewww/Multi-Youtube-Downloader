@@ -1,0 +1,11 @@
+[project]
+name = "youtube-batch-downloader"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pyqt6>=6.10.2",
+    "requests>=2.32.5",
+    "yt-dlp>=2026.2.4",
+]
